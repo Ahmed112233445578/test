@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="38px" viewBox="0 0 75 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Motion Graphics</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Render_Services_V1-Copy" transform="translate(-822.000000, -488.000000)" stroke="#FEFEFE">
+            <g id="Motion-Graphics" transform="translate(823.000000, 489.000000)">
+                <path d="M72.5663644,14.0151071 C74.7255735,23.7076546 68.6106506,33.3486803 58.9091003,35.5490926 C49.2075501,37.7505782 39.5932191,31.6774404 37.4340099,21.9848929 C35.2737371,12.2934187 41.3886601,2.65131968 51.091274,0.450907448 C60.7928242,-1.75057815 70.4071552,4.3225596 72.5663644,14.0151071 Z" id="Stroke-1" stroke-width="2"></path>
+                <path d="M53,17.5 C53,27.164787 45.164787,35 35.5,35 C25.8341688,35 18,27.164787 18,17.5 C18,7.83521303 25.8341688,0 35.5,0 C45.164787,0 53,7.83521303 53,17.5 Z" id="Stroke-3"></path>
+                <path d="M35,17.5 C35,27.164787 27.1658312,35 17.5,35 C7.83521303,35 0,27.164787 0,17.5 C0,7.83521303 7.83521303,0 17.5,0 C27.1658312,0 35,7.83521303 35,17.5 Z" id="Stroke-5" stroke-width="0.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>
